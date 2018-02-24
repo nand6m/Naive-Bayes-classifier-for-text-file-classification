@@ -1,5 +1,5 @@
 # Naive-Bayes-classifier-for-text-file-classification
-Naive Bayesian classifer is implemented using Python 3.
+Naive Bayesian classifier is implemented using Python 3.
 
 Classified a massive collection of 20,000 documents (news groups dataset) into 20 labels.
 Project involved 3 stages: 
